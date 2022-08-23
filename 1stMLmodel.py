@@ -1,5 +1,4 @@
 from msilib.schema import File
-from re import A
 import numpy as np
 import gzip
 import idx2numpy
